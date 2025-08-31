@@ -1,6 +1,8 @@
 # MNIST Handwritten Digit Classification DL 
+
 This project implements a Handwritten Digit Recognition System using the MNIST dataset. 
 A neural network model is trained to classify digits (0–9) and can also be tested on custom handwritten images.
+
 ---
 
 ##  Key Features
