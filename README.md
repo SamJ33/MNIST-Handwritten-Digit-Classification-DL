@@ -37,6 +37,6 @@ Contributions are welcome! If you’d like to improve the model, fix bugs, or ad
 3. Commit your changes
 4. Open a pull request
 
-
+---
 ##  License
 This project is licensed under the **MIT License** – you are free to use, modify, and distribute this project with attribution.
